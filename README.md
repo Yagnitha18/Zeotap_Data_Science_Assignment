@@ -1,6 +1,6 @@
 # Zeotap_Data_Science_Assignment
 
-# Data Science Assignment: eCommerce Transactions Dataset
+# eCommerce Transactions Dataset
 
 ## Overview
 This repository contains the solutions for the eCommerce Transactions Dataset assignment. The assignment involves performing **Exploratory Data Analysis (EDA)**, building a **Lookalike Model**, and implementing **Customer Segmentation** using clustering techniques.
